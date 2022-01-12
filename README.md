@@ -1,5 +1,5 @@
 # ionic-firebase-food-app
-install node_module: npm install
+install node_modules
 install angularfire 
 install @ionic-native/camera
 cordova-plugin-camera
